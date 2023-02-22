@@ -17,10 +17,13 @@ in this 4th assignment  i started my own code
 ## usage
 the website contain HTML, CSS and JavaScript and has been pushed to github repostiry.
 
-![Getting Started]
+![Getting Started](./assets/Screenshot%202023-02-21%20223647.png)
 
 ## deployed link
+https://melhelow.github.io/time-quiz/
 
+## github 
+https://github.com/melhelow/time-quiz
 
 
 ## credits
